@@ -1,0 +1,157 @@
+Cmp-Mod V01 Created by Cvpcb (2015-01-16 BZR 5376)-product   date = 13/04/2015 08:49:01
+
+BeginCmp
+TimeStamp = /55142E07;
+Reference = C1;
+ValeurCmp = 100n;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55142C91;
+Reference = C2;
+ValeurCmp = 100u;
+IdModule  = Capacitors_Elko_ThroughHole:Elko_vert_11x5mm_RM2;
+EndCmp
+
+BeginCmp
+TimeStamp = /551439FC;
+Reference = C3;
+ValeurCmp = 100n;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55143849;
+Reference = C4;
+ValeurCmp = 47p;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /55142B2D;
+Reference = C5;
+ValeurCmp = 100u;
+IdModule  = Capacitors_Elko_ThroughHole:Elko_vert_11x5mm_RM2;
+EndCmp
+
+BeginCmp
+TimeStamp = /55144511;
+Reference = C6;
+ValeurCmp = 100n;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /551443FD;
+Reference = C7;
+ValeurCmp = 47p;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /55142E89;
+Reference = D1;
+ValeurCmp = BPW34;
+IdModule  = Custom Parts:PHOTODIODE_MULTI;
+EndCmp
+
+BeginCmp
+TimeStamp = /552B76E5;
+Reference = P1;
+ValeurCmp = CONN_01X03;
+IdModule  = Pin_Headers:Pin_Header_Angled_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /55145420;
+Reference = Q1;
+ValeurCmp = BF545;
+IdModule  = Housings_SOT-23_SOT-143_TSOT-6:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = /5524E5FB;
+Reference = Q2;
+ValeurCmp = FET_N;
+IdModule  = Discret:TO92GSD;
+EndCmp
+
+BeginCmp
+TimeStamp = /55143095;
+Reference = R1;
+ValeurCmp = 10M;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5514312B;
+Reference = R2;
+ValeurCmp = 10M;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55142D4F;
+Reference = R3;
+ValeurCmp = 1M;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /55143271;
+Reference = R4;
+ValeurCmp = 4k7;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /55142BFB;
+Reference = R5;
+ValeurCmp = 1k;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /551436DE;
+Reference = R6;
+ValeurCmp = 330k;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /55143969;
+Reference = R7;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /55144184;
+Reference = R8;
+ValeurCmp = 330k;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /55144342;
+Reference = R9;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /55142AE9;
+Reference = R10;
+ValeurCmp = 100;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5514345F;
+Reference = U1;
+ValeurCmp = LM358N;
+IdModule  = SOIC_Packages:SOIC-8_3.9x4.9mm_Pitch1.27mm;
+EndCmp
+
+EndListe
